@@ -1,0 +1,1 @@
+int * garderingar[6];
