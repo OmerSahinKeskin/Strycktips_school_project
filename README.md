@@ -1,4 +1,4 @@
-# Strycktips_school_projekt
+# Strycktips_school_project
 School project
 
 This is a school project i made in my first year in Chalmers.
